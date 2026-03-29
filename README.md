@@ -32,7 +32,7 @@
 
 ### 🔥 Streak Stats
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsfahima&" alt="itsfahima" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MstFahima&" alt="itsfahima" />
 </p>
 
 ---
